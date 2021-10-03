@@ -9,7 +9,6 @@ Tested on macOS Catalina 10.15 with Core i7-4600U
 3. Create a directory named "EFI", if it already exists delete everything inside it.<br>
 4. Copy/move "BOOT" and "OC" folders to the "EFI" folder.<br>
 5. Done! Enjoy your Hackintosh.<br>
-<br>
 <h2>Some notes for a fully functional Hackintosh!</h2>
 1. To fix iServices (iMessage and FaceTime), please generate your own serial number, MLB, MAC address, etc. with GenSMBIOS https://github.com/corpnewt/GenSMBIOS. <b>For this particular model I use MacbookPro11,4 SMBIOS</b><br>
 2. This particular configuration requires you to modify the DVMT pre-allocated memory using GRUB shell (you can Google this to download by yourself) <b>or it will not boot at all due to out of memory,</b> courtesy of OSXLatitude https://osxlatitude.com/forums/topic/6472-dell-latitude-e7240e7440/?do=findComment&comment=101125<br>
