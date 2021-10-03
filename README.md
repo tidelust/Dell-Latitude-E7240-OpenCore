@@ -16,5 +16,5 @@ Tested on macOS Catalina 10.15 with Core i7-4600U
 3. Note that you might need to update your kexts if available! See OpenCore Post-install docs https://dortania.github.io/OpenCore-Post-Install/universal/update.html<br>
 4. I no longer own this laptop, so if you had any issues regarding to patches or anything related please attach DSDT (select acpidump.efi in OC boot picker) and last logs.
 <h2>Known issues</h2>
-1. Brightness keys not working (both Fn + Up and Fn + Down), instead pressing Pause (Fn + Insert) to increase or Scroll lock (Fn + F3) to decrease will do the job.
+1. Brightness keys not working (both Fn + Up and Fn + Down), instead pressing Pause (Fn + Insert) to increase or Scroll lock (Fn + F3) to decrease will do the job.<br>
 2. You tell me.
