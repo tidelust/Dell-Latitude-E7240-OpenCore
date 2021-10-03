@@ -1,5 +1,5 @@
 # Dell-Latitude-E7240-OpenCore
-OpenCore boot pack for Dell Latitude E7240
+OpenCore boot pack for Dell Latitude E7240 (also works on E7440)
 <br>
 Tested on macOS Catalina 10.15 with Core i7-4600U
 <br>
